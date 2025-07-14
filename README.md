@@ -10,13 +10,7 @@
 
 
 ## Abstract
-Context: Traditionally, software development has been predominantly supported by a variety of non-AI tools and methodologies. However, with the introduction of generative AI (GenAI) tools such as GPT-4, the landscape has changed significantly, opening up new opportunities to improve all activities that are part of the software development process.
-Objective: To explore the usage of GenAI in different areas of software engineering (SE) as defined by the SWEBOK: requirements, architecture and design, construction, testing and maintenance. By examining these aspects, it is targeted where and how GenAI tools are being applied and assesses their potential while adhering to established SE standards and coding practices. 
-Method: A systematic mapping study (SMS) was conducted using the SCOPUS database, considering studies published between January 2022 and July 2024. Of the 256 studies retrieved, 48 were selected as primary papers. 
-Results: GenAI is most widely used in construction and testing, improving efficiency by automating repetitive, structured tasks. In contrast, areas that require more creativity and strategic thinking pose significant challenges for the evolution of GenAI, where improving the synergy between GenAI and human experience is essential.
-Conclusion: The gaps in requirements, architecture and design, and maintenance highlight key opportunities for future research. Efforts should focus on the evolution of GenAI to better support these areas and help expand its role throughout the SE discipline.
-## What is this?
-This repository contains the replication package of the systematic mapping study.
+Traditionally, software development has been predominantly supported by a variety of non-AI tools and methodologies. However, with the introduction of Generative AI (GenAI) tools such as ChatGPT, the landscape has changed significantly, opening up new opportunities to improve all activities that are part of the software development process. To explore the usage of GenAI in different areas of Software Engineering (SE) as defined by the SWEBOK: _Requirements_, _Architecture and Design_, _Construction_, _Testing_, and _Maintenance_, a Systematic Mapping Study (SMS) was conducted using the SCOPUS database, considering studies published between January 2022 and July 2024. Of the 256 studies retrieved, 48 were selected as primary studies. The results indicate that GenAI is most widely used in the areas of _Construction_ and _Testing_, improving efficiency by automating repetitive and structured tasks. In contrast, areas that require more creativity and strategic thinking pose significant challenges for the evolution of GenAI, where improving the synergy between GenAI and human experience is essential. Therefore, it is important that future efforts focus on evolving GenAI capabilities to better address these gaps and expand its role throughout the SE discipline.
 
 ## How is the replication package structured?
 
@@ -27,13 +21,10 @@ The replication package is structured in multiple Excel pages:
 - Full reading
 - SDLC phases and applications
 - Data extraction form
-- Q1.1
-- Q1.2
-- Q2.1
-- Q2.2
-- Q2.3
-- Q3.1
-- Q3.2
+- RQ1
+- RQ2
+- RQ3
+- RQ4
 
 ## Contacts
 [Green Team Alarcos](https://greenteamalarcos.uclm.es/)
